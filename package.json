@@ -8,6 +8,10 @@
     "deploy": "hexo deploy",
     "server": "hexo server"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "hexo": {
     "version": "5.2.0"
   },
