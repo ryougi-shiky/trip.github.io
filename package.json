@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server -p 80",
-    "start": "hexo server"
+    "start": "hexo generate && hexo deploy && hexo server"
   },
   "keywords": [
     "example",
